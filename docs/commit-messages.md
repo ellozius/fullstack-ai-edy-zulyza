@@ -32,3 +32,5 @@
 - Gunakan **feat:** untuk menambahkan proyek/fitur baru.
 - Gunakan **fix:** untuk perbaikan kecil (typo, format).
 - Gunakan **chore:** untuk housekeeping (config, struktur repo).
+
+<!-- update commit message -->
