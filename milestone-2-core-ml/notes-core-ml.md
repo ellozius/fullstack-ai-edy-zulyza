@@ -41,3 +41,5 @@
 - [ ] Logistic Regression  
 - [ ] Decision Trees  
 - [ ] Clustering (K-Means, DBSCAN)  
+
+<!-- update commit message milestone-2 -->
