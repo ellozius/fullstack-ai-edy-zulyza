@@ -16,3 +16,6 @@ Lihat: [notes-mlops.md](notes-mlops.md)
 ## 🚀 Hasil / Outcomes
 - Dockerized ML project
 - Pipeline otomatis untuk data & model
+
+---
+_Last updated: 2025-11-18_

@@ -16,3 +16,6 @@ Lihat: [notes-foundation.md](notes-foundation.md)
 ## 🚀 Hasil / Outcomes
 - CLI Python sederhana
 - Repo GitHub dengan workflow dasar
+
+---
+_Last updated: 2025-11-18_

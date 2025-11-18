@@ -10,6 +10,7 @@ This repository documents my journey toward becoming a **Fullstack AI Engineer**
 ![GitHub last commit](https://img.shields.io/github/last-commit/ellozius/fullstack-ai-edy-zulyza)
 ![Language](https://img.shields.io/badge/lang-ID%2FEN-blue)
 ![Status](https://img.shields.io/badge/status-learning-green)
+![License](https://img.shields.io/github/license/ellozius/fullstack-ai-edy-zulyza)
 
 ---
 
@@ -131,3 +132,5 @@ Build an end-to-end portfolio ready to showcase to clients or recruiters as a Fu
 
 📣 **ID:** Jika kamu tertarik mengikuti roadmap ini, silakan fork repo ini dan mulai dari milestone 1!  
 📣 **EN:** If you're interested in following this roadmap, feel free to fork this repo and start from milestone 1!
+
+💡 **Contributions welcome!** Feel free to open issues or submit pull requests.

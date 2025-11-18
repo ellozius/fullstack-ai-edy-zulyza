@@ -16,3 +16,6 @@ Lihat: [notes-core-ml.md](notes-core-ml.md)
 ## 🚀 Hasil / Outcomes
 - Model klasifikasi dataset Iris
 - Notebook eksperimen ML
+
+---
+_Last updated: 2025-11-18_

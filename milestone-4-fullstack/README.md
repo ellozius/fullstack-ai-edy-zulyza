@@ -16,3 +16,6 @@ Lihat: [notes-fullstack.md](notes-fullstack.md)
 ## 🚀 Hasil / Outcomes
 - REST API untuk model ML
 - Demo frontend sederhana
+
+---
+_Last updated: 2025-11-18_
