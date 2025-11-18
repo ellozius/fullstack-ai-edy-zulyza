@@ -17,17 +17,11 @@ Lihat: [notes-mlops.md](notes-mlops.md)
 - Dockerized ML project
 - Pipeline otomatis untuk data & model
 
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
+## 🧠 Spesialisasi | Specialisation Focus
+- AI for Business Automation
+  - Pipeline otomatisasi laporan
+  - Prediksi penjualan
+  - Rekomendasi produk
 
 ---
 _Last updated: 2025-11-18_

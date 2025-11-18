@@ -17,17 +17,9 @@ Lihat: [notes-fullstack.md](notes-fullstack.md)
 - REST API untuk model ML
 - Demo frontend sederhana
 
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
+## 🧠 Spesialisasi | Specialisation Focus
+- AI for NLP (sentiment analysis, text classification, chatbot)
+- AI for Vision (image classification, object detection, OCR)
 
 ---
 _Last updated: 2025-11-18_

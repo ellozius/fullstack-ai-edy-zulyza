@@ -17,17 +17,12 @@ Lihat: [notes-freelance.md](notes-freelance.md)
 - Portfolio website
 - Draft proposal freelance
 
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
-
----
-_Last updated: 2025-11-18_
+## 🧠 Branding & Specialisation
+Saya memposisikan diri sebagai Fullstack AI Engineer dengan multi-specialisation:
+- Business Automation
+- NLP
+- Vision
+- Fullstack Deployment
 
 ---
 _Last updated: 2025-11-18_
