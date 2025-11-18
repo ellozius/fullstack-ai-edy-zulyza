@@ -51,3 +51,7 @@ Ringkasan perubahan besar per milestone.
 - Finalized README with roadmap & milestones
 - Batch updated milestone READMEs with timestamp
 - Batch updated notes files with timestamp
+
+## 2025-11-18
+- Removed progress checklist from main README (covered in docs/roadmap-checklist.md)
+- Replaced wording 'dipamerkan' → 'ditampilkan'
