@@ -94,6 +94,6 @@ Lihat [roadmap-checklist.md](docs/roadmap-checklist.md) untuk daftar capaian yan
 ---
 
 ## 👤 Kontributor
-- Nama: **Edy**
+- Nama: **Edy Zulyza**
 - Role: *Fullstack AI Engineer (in progress)*
 
