@@ -55,3 +55,6 @@ Ringkasan perubahan besar per milestone.
 ## 2025-11-18
 - Removed progress checklist from main README (covered in docs/roadmap-checklist.md)
 - Replaced wording 'dipamerkan' → 'ditampilkan'
+
+## 2025-11-18
+- Added link to roadmap-checklist.md in main README under Additional Docs

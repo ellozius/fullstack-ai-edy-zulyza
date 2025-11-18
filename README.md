@@ -102,6 +102,8 @@ This roadmap is divided into 5 milestones, each containing:
 
 ---
 
+- ✅ [Roadmap Checklist](docs/roadmap-checklist.md)
+
 ## 👤 Kontributor | Contributor
 Nama | Name: Edy Zulyza  
 Role: Fullstack AI Engineer (in progress)
@@ -120,5 +122,6 @@ Build an end-to-end portfolio ready to showcase to clients or recruiters as a Fu
 📣 **EN:** If you're interested in following this roadmap, feel free to fork this repo and start from milestone 1!
 
 💡 **Contributions welcome!** Feel free to open issues or submit pull requests.
+
 
 
