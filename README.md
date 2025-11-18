@@ -1,99 +1,108 @@
 # 🚀 Fullstack AI Engineer Roadmap & Learning Journal
 
-## 📌 Deskripsi
-Repo ini adalah dokumentasi perjalanan saya dalam menempuh roadmap menjadi **Fullstack AI Engineer**.  
-Setiap milestone berisi capaian teknis, proyek portofolio, dan catatan pembelajaran.  
-Tujuan akhir: membangun portofolio end-to-end yang siap dipamerkan ke klien atau perekrut.
+📌 **ID (Bahasa Indonesia):**  
+Repo ini adalah dokumentasi perjalanan saya dalam menempuh roadmap menjadi **Fullstack AI Engineer**. Setiap milestone berisi capaian teknis, proyek portofolio, dan catatan pembelajaran. Tujuan akhir: membangun portofolio end-to-end yang siap dipamerkan ke klien atau perekrut.
+
+📌 **EN (English):**  
+This repository documents my journey toward becoming a **Fullstack AI Engineer**. Each milestone contains technical goals, portfolio projects, and learning notes. The final goal: build an end-to-end portfolio ready to showcase to clients or recruiters.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ellozius/fullstack-ai-edy-zulyza)
+![GitHub last commit](https://img.shields.io/github/last-commit/ellozius/fullstack-ai-edy-zulyza)
 
 ---
 
-## 🪜 Milestone & Proyek
-
-### Milestone 1: Fondasi Teknis
-**Capaian:**
-- Python (pandas, NumPy, scikit-learn, matplotlib)
-- Git/GitHub version control
-- Statistik & algoritma dasar
-
-**Proyek:**
-- 📊 EDA & Prediksi Harga Rumah
-- 🗂 Repo GitHub dengan dokumentasi rapi
-
-**Catatan Belajar:**  
-- [notes-foundation.md](milestone-1-foundation/notes-foundation.md)
+## 📚 Daftar Isi | Table of Contents
+- [Deskripsi | Description](#deskripsi--description)
+- [Milestone & Proyek | Milestones & Projects](#milestone--proyek--milestones--projects)
+- [Checklist Progres | Progress Checklist](#checklist-progres--progress-checklist)
+- [Struktur Folder | Folder Structure](#struktur-folder--folder-structure)
+- [Kontributor | Contributor](#kontributor--contributor)
+- [Tujuan Akhir | Final Goal](#tujuan-akhir--final-goal)
 
 ---
+
+## 📌 Deskripsi | Description
+
+**ID:**  
+Roadmap ini dibagi menjadi 5 milestone, masing-masing berisi:
+- Skill yang ingin dikuasai
+- Proyek portofolio
+- Catatan belajar
+- Tantangan & refleksi
+
+**EN:**  
+This roadmap is divided into 5 milestones, each containing:
+- Skills to master
+- Portfolio projects
+- Learning notes
+- Challenges & reflections
+
+---
+
+## 🪜 Milestone & Proyek | Milestones & Projects
+
+### Milestone 1: Fondasi Teknis | Technical Foundation
+- 📄 [Catatan Belajar | Learning Notes](milestone-1-foundation/notes-foundation.md)
 
 ### Milestone 2: Core AI & Machine Learning
-**Capaian:**
-- ML klasik (regresi, klasifikasi, clustering)
-- Deep Learning dasar (CNN, RNN/LSTM)
-- NLP dasar (text preprocessing, embeddings)
+- 📄 [Catatan Belajar | Learning Notes](milestone-2-core-ml/notes-core-ml.md)
 
-**Proyek:**
-- 🤖 Sentiment Analysis
-- 🖼 Image Classifier
-- 💬 Chatbot sederhana
-
-**Catatan Belajar:**  
-- [notes-core-ml.md](milestone-2-core-ml/notes-core-ml.md)
-
----
-
-### Milestone 3: Multi-Spesialisasi
-**Capaian:**
-- Data Engineering (SQL/NoSQL, pipeline)
-- MLOps (Docker, Kubernetes, CI/CD)
-- Cloud deployment (AWS/GCP/Azure)
-
-**Proyek:**
-- 🔧 Data Pipeline
-- ☁️ Model Deployment ke API publik
-- ⚙️ CI/CD Pipeline
-
-**Catatan Belajar:**  
-- [notes-mlops.md](milestone-3-mlops-dataeng/notes-mlops.md)
-
----
+### Milestone 3: MLOps & Data Engineering
+- 📄 [Catatan Belajar | Learning Notes](milestone-3-mlops-dataeng/notes-mlops.md)
 
 ### Milestone 4: Fullstack Integration
-**Capaian:**
-- Backend (Flask/Django, Node.js)
-- Frontend (React/Vue)
-- Integrasi AI ke aplikasi web end-to-end
-
-**Proyek:**
-- 📈 AI Dashboard
-- 🛒 Recommender System
-- 🔐 AI Ethics Demo
-
-**Catatan Belajar:**  
-- [notes-fullstack.md](milestone-4-fullstack/notes-fullstack.md)
-
----
+- 📄 [Catatan Belajar | Learning Notes](milestone-4-fullstack/notes-fullstack.md)
 
 ### Milestone 5: Freelance Readiness
-**Capaian:**
-- Portofolio end-to-end
-- Kontribusi open-source (GitHub, Kaggle)
-- Branding sebagai Fullstack AI Engineer
-
-**Proyek:**
-- 🌐 Personal Portfolio Website
-- 🏆 Kaggle Competition Entry
-- 💼 Freelance-ready Project (Capstone)
-
-**Catatan Belajar:**  
-- [notes-freelance.md](milestone-5-freelance-ready/notes-freelance.md)
+- 📄 [Catatan Belajar | Learning Notes](milestone-5-freelance-ready/notes-freelance.md)
 
 ---
 
-## ✅ Checklist Progres
-Lihat [roadmap-checklist.md](docs/roadmap-checklist.md) untuk daftar capaian yang bisa ditandai.
+## ✅ Checklist Progres | Progress Checklist
+
+Lihat file [roadmap-checklist.md](docs/roadmap-checklist.md) untuk menandai capaian lintas milestone.  
+See [roadmap-checklist.md](docs/roadmap-checklist.md) to track progress across milestones.
+
+- [ ] Milestone 1: Fondasi Teknis  
+- [ ] Milestone 2: Core AI & ML  
+- [ ] Milestone 3: MLOps & Data Engineering  
+- [ ] Milestone 4: Fullstack Integration  
+- [ ] Milestone 5: Freelance Readiness  
 
 ---
 
-## 👤 Kontributor
-- Nama: **Edy Zulyza**
-- Role: *Fullstack AI Engineer (in progress)*
+## 📁 Struktur Folder | Folder Structure
 
+📦 fullstack-ai-edy-zulyza  
+├── milestone-1-foundation/  
+│   └── notes-foundation.md  
+├── milestone-2-core-ml/  
+│   └── notes-core-ml.md  
+├── milestone-3-mlops-dataeng/  
+│   └── notes-mlops.md  
+├── milestone-4-fullstack/  
+│   └── notes-fullstack.md  
+├── milestone-5-freelance-ready/  
+│   └── notes-freelance.md  
+└── docs/  
+    └── roadmap-checklist.md  
+
+---
+
+## 👤 Kontributor | Contributor
+
+Nama | Name: Edy Zulyza  
+Role: Fullstack AI Engineer (in progress)
+
+---
+
+## 🎯 Tujuan Akhir | Final Goal
+
+**ID:**  
+Membangun portofolio end-to-end yang siap dipamerkan ke klien atau perekrut sebagai Fullstack AI Engineer.
+
+**EN:**  
+Build an end-to-end portfolio ready to showcase to clients or recruiters as a Fullstack AI Engineer.
+
+📣 **ID:** Jika kamu tertarik mengikuti roadmap ini, silakan fork repo ini dan mulai dari milestone 1!  
+📣 **EN:** If you're interested in following this roadmap, feel free to fork this repo and start from milestone 1!
