@@ -99,10 +99,10 @@ This roadmap is divided into 5 milestones, each containing:
 - 🔗 [Resources](docs/resources.md)  
 - 🗂️ [Portfolio Index](docs/portfolio-index.md)  
 - 📝 [Changelog](docs/CHANGELOG.md)
-
+- ✅ [Roadmap Checklist](docs/roadmap-checklist.md)
 ---
 
-- ✅ [Roadmap Checklist](docs/roadmap-checklist.md)
+
 
 ## 👤 Kontributor | Contributor
 Nama | Name: Edy Zulyza  
