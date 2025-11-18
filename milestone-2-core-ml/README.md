@@ -19,3 +19,6 @@ Lihat: [notes-core-ml.md](notes-core-ml.md)
 
 ---
 _Last updated: 2025-11-18_
+
+---
+_Last updated: 2025-11-18_
