@@ -9,3 +9,5 @@
 # pytest>=6.0
 # black>=21.0
 # flake8>=3.9
+pytest
+numpy
