@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Changelog
 
 Ringkasan perubahan besar per milestone.
@@ -64,3 +65,21 @@ Ringkasan perubahan besar per milestone.
 
 ## 2025-11-18
 - Added context.md with complete Fullstack AI Engineer roadmap and learning modules
+=======
+\# 📦 Changelog – Scientific Calculator
+
+
+
+\## \[v0.1.0] - 2025-11-19
+
+\### Added
+
+\- Initial project structure
+
+\- Virtual environment setup
+
+\- requirements.txt with pytest and numpy
+
+
+
+>>>>>>> e9c5759 (Complete Phase 1: BasicCalculator with unit tests [v0.2.0])
