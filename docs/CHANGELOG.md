@@ -11,3 +11,7 @@
 
 
 
+## [v0.2.0] - 2025-11-19
+### Added
+- BasicCalculator class with add, subtract, multiply, divide methods
+- Unit tests for BasicCalculator
