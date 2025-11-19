@@ -1,4 +1,8 @@
-class BasicCalculator:
+from src.calculators.base_calculator import BaseCalculator
+
+class BasicCalculator(BaseCalculator):
+    '''Basic calculator implementing addition, subtraction, multiplication, and division.'''
+    
     def add(self, a: float, b: float) -> float:
         return a + b
 
@@ -10,5 +14,7 @@ class BasicCalculator:
 
     def divide(self, a: float, b: float) -> float:
         if b == 0:
-            raise ValueError("Division by zero is not allowed")
+            raise ValueError("Cannot divide by zero.")
         return a / b
+    
+    
